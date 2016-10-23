@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>newsSourceServlet</servlet-name>
+    <servlet-class>newsReader.server.NewsSourceServiceImpl</servlet-class>
+	<init-param> 
+   		<param-name>dbUrl</param-name> 
+   		<param-value>jdbc:mysql:///newsreader</param-value> 
+	</init-param> 
+	<init-param> 
+   		<param-name>dbUser</param-name> 
+   		<param-value>newsReader</param-value> 
+	</init-param> 
+	<init-param> 
+   		<param-name>dbPass</param-name> 
+   		<param-value>5BGalMin</param-value> 
+	</init-param> 
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>newsSourceServlet</servlet-name>
+    <url-pattern>/newsreader/newsSources</url-pattern>
+  </servlet-mapping>
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+
+</web-app>

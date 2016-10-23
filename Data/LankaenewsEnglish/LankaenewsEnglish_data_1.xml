@@ -1,0 +1,712 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Styles>
+    <s:Style s:ID="HeaderStyle">
+      <s:Alignment s:Horizontal="Center" />
+      <s:Font s:Bold="1" />
+    </s:Style>
+    <s:Style s:ID="cs">
+      <s:Alignment s:WrapText="1" />
+    </s:Style>
+  </s:Styles>
+  <s:Worksheet s:Name="MainArticle">
+    <s:Table>
+      <s:Column s:Width="100" />
+      <s:Column s:Width="100" />
+      <s:Column s:Width="100" />
+      <s:Column s:Width="100" />
+      <s:Column s:Width="100" />
+      <s:Column s:Width="100" />
+      <s:Column s:Width="100" />
+      <s:Row>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">MainArticle_key</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">LankaenewsEnglish_key</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">news_content</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">sub_hedding</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">top_story</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">news_content1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">news_content2</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov. 28, 2010, 10.35AM) Although Dinesh Gunawardena’s name is also in the senior Minister list, he was given a portfolio in the recent Cabinet re shuffle. It has been widely questioned whether is it because his Ministry incurred record losses, and whether that is the inefficiency and incompetence sought after to complete President’s much hyped Asian model vision.
+Although Gunawardena has been re appointed as the Minister of water supply and drainage, it is significant to note that when he was the Minister earlier, the water supply Board which came under his Ministry incurred a monumental loss of Rs. 21390 million !! (model loss like the model vision ?). May be this can be described as Asia’s model in biggest loss incurred under a ‘concerned’ administration. The senior Ministers have begun saying that this is a problem not of the Asia model but of the intelligence quotient of those making such appointments
+More than the other seniors of the SLFP, Gunawardena has been well noted for his sycophancy and subservience to protect and promote the interests of the Rajapakses. He heads that group of servile lackeys of the Rajapakses.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Piyasena ‘discarded’ because his sister broke coconuts with Anoma</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Seniors undercut and driven into home for the aged but one senior responsible for Rs. 21000 million loss exalted</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Though the senior Ministers were summoned for a meeting by the President on the 26th, a majority of them had not turned up, among whom Minister A H M Fowzie was one.
+It is reported that the Galle District SLFP supporters have lodged a strong protest against the below the belt axing of Piyasena Gamage by giving him an impotent senior Minister position despite the fact that he played a major role as a SLFP leader for the Galle district towards the victories of the party at both the Presidential and general elections. Piyasena Gamage was earlier appointed as the leader of the SLFP, Galle district following the deaths of SLFP Galle District leaders, Richard Pathirane and Amarasiri Dodangoda.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">When Lanka e news questioned Piyasena Gamage about this issue, he replied that this must be asked from the President, and he is also waiting for it.
+When considering the senior Ministers who are mostly old, Gamage cannot be classified among them. When Gamage is compared with those considered as seniors in the SLFP and the alliance, namely, Maithripala Sirisena, Nimal Siripala De Silva, Susil Premjayantha, W D J Seneviratne, Gamage is very much junior in his appointment as a Cabinet Minister. Hence, Gamage had been shunted by appointing him as a senior Minister not because of his seniority but to wreak political revenge, sources say.
+It is well to recall that at a Cabinet meeting sometime ago,the President made an insinuation that a sister of a Minister of his Cabinet took part in coconut breaking with Anoma Fonseka against the Govt. He indirectly referred to the sister of Piyasena Gamage. Reports say, Gamage was undercut because of this.</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov. 28, 2010, 10.35AM) Although Dinesh Gunawardena’s name is also in the senior Minister list, he was given a portfolio in the recent Cabinet re shuffle. It has been widely questioned whether is it because his Ministry incurred record losses, and whether that is the inefficiency and incompetence sought after to complete President’s much hyped Asian model vision.
+Although Gunawardena has been re appointed as the Minister of water supply and drainage, it is significant to note that when he was the Minister earlier, the water supply Board which came under his Ministry incurred a monumental loss of Rs. 21390 million !! (model loss like the model vision ?). May be this can be described as Asia’s model in biggest loss incurred under a ‘concerned’ administration. The senior Ministers have begun saying that this is a problem not of the Asia model but of the intelligence quotient of those making such appointments
+More than the other seniors of the SLFP, Gunawardena has been well noted for his sycophancy and subservience to protect and promote the interests of the Rajapakses. He heads that group of servile lackeys of the Rajapakses.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Piyasena ‘discarded’ because his sister broke coconuts with Anoma</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Seniors undercut and driven into home for the aged but one senior responsible for Rs. 21000 million loss exalted</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Though the senior Ministers were summoned for a meeting by the President on the 26th, a majority of them had not turned up, among whom Minister A H M Fowzie was one.
+It is reported that the Galle District SLFP supporters have lodged a strong protest against the below the belt axing of Piyasena Gamage by giving him an impotent senior Minister position despite the fact that he played a major role as a SLFP leader for the Galle district towards the victories of the party at both the Presidential and general elections. Piyasena Gamage was earlier appointed as the leader of the SLFP, Galle district following the deaths of SLFP Galle District leaders, Richard Pathirane and Amarasiri Dodangoda.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">When Lanka e news questioned Piyasena Gamage about this issue, he replied that this must be asked from the President, and he is also waiting for it.
+When considering the senior Ministers who are mostly old, Gamage cannot be classified among them. When Gamage is compared with those considered as seniors in the SLFP and the alliance, namely, Maithripala Sirisena, Nimal Siripala De Silva, Susil Premjayantha, W D J Seneviratne, Gamage is very much junior in his appointment as a Cabinet Minister. Hence, Gamage had been shunted by appointing him as a senior Minister not because of his seniority but to wreak political revenge, sources say.
+It is well to recall that at a Cabinet meeting sometime ago,the President made an insinuation that a sister of a Minister of his Cabinet took part in coconut breaking with Anoma Fonseka against the Govt. He indirectly referred to the sister of Piyasena Gamage. Reports say, Gamage was undercut because of this.</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">3</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov. 28, 2010, 10.35AM) It is reported that the senior Ministers have claimed that they who propelled Mahinda Rajapakse to the position of the President have been politically discarded despite they being appointed as senior Ministers.
+A number of Opposition MPs speaking to Lanka e news, stated that a majority of the senior Ministers who are attending the budget debate these days have expressed resentment and anger over their senior Ministerial appointments in the lobbies and the canteen whenever they meet them.
+‘It is we who brought him into this Presidential status. In order for him to groom others we are being shunted. As though this is not enough, the portfolios have also been so changed to make us fight among ourselves’, one senior Minister had told the Opposition MPs at the canteen.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Ministers relegated to home for the aged ‘cut lemons’ against President</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">If we are to go on pension, it is we who should decide on it.But, here Mahinda has decided on that for us, one senor Minister had told in fury.
+As politicians it is we who built up everything. There is nothing that the President did. The treatment meted out to us is like after getting the maximum work from a bullock and then handing over it to a slaughter house, a senior Minister lamented, when speaking to a number of opposition MPs, it is reported.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Amidst this chaotic situation, the most senior Minister in the Govt. and former Prime Minister Ratnasiri Wickremanayake has still not handed over his Ministry of management and re construction, it is learnt. Consequently the newly appointed Minister Naveen Dissanayake has been unable to go and take over this Ministry yet.
+Wickremanayake is a former Secretary of the SLFP. In 1982, when Hector Kobbekaduwa was fielding as the SLFP candidate for the Presidential elections, as party Secretary, Mr. Wickremenayake gave a written notification to the Elections Commissioner to appoint Kobbekaduwa as the Presidential candidate. At that time Mahinda Rajapakse was with Anura Bandaranaike in the opposite camp. Mahinda Rajapakse who was an MP at that time during the Presidential elections was a target of vicious attack of Kobbekaduwa.
+Wickremanayake was close to Chandrika during her period in politics and he had very cordial relations with her. He was the Prime Minister in her Govt. when it was first installed.</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">4</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News 27.Nov.2010 11.55PM) The disaster management center had revealed that thousands of families have been devastated by floods in Puttalam , Galle. Mannar, Gampola, Kurunegala, Matale, Moneragala, and Kegalle districts.
+Even in the South because of landslides a number of houses had been damaged. Likewise in Baddegama and Godahena due to landslides several families have been devastated.
+Because of the floods in Gampaha and Jaela, several places and roads down Mulaitivu district are under water. As the sluice gate of the Weheragala reservoir has been opened due to its water level rising ,residents in the areas fear that the Menik ganga water level will also rise causing floods.
+Meanwhile , if the water level of the Lunugamvihera reservoir rises and its sluice gate is opened , the water level of the Kirindi Oya will also go up . The Irrigation engineers have therefore issued a notice to the residents in the vicinity to be cautious as they may have to face floods.
+There are reports that owing to the torrential rains Island wide , residents of Badulla, Kandy , Galle Ratnapura, Embilipitiya, Tambalagamuwa and Colombo are all afflicted by floods.
+At Bogahaella , Badulla because of rocks slipping down into a house , two rooms and a bathroom had been totally damaged. However the inmates have escaped by a hair’s breadth .
+At Kandy and Thadasanna districts the heavy downpour had caused damage to 17 houses , and the inmates are in deep despair , reports say.
+Galle Additional District Secretary Bandula Harischandra said , because Nugaduwa,
+Lunuwilawatte, Hirimbura of the Galle Kadawath Sathara district are flooded , over 100
+families are affected. Meanwhile in Galle over 500 families are now refugees following the
+rains.
+Another landslide at the Mahagoda District division , Baddegama several houses are damaged. Many other houses are facing the same hazard and are in imminent danger.
+There are reports that as a result of a mountain coming down at Kahawatte Ambalanwatte district , Embilipitiya , Ratnapura, transport is hindered in those areas.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Rains and landslides wreak havoc: Families devastated roads inundated</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">In Thambalagamuwa district , Trincomalee , a lake has spilt over causing extensive damage to about 50 acres of the paddy fields bordering it.
+As Thambalagamuwa and Kinniya roads are under water , transport along those roads have been halted. Because the Purangal and rathu palama are flooded , there is no transport down those places too.
+Since Ratnapura district is flooded, the Kelani river water level has risen ,consequently , those houses alongside the river on both sides are inundated. Because no action has been taken so far in the districts alongside the Colombo - Katunayake Highway to control the flooding waters, several houses at Hunupitiya, Wattala, Enderamulla and surrounding areas have gone under water.,
+Even the test cricket match between Sri Lanka and West Indies had been suspended owing to the rains.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">5</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News 27.Nov.2010 7.30PM) The Center for Human Rights (CHR) Sri Lanka releasing a press release emphasis that attacks and the degree of intimidation on Jaffna media have rapidly increased, during the past few days.
+The members of the editors attached to ‘Yarl Thirukkal’ news paper informs that during the early hours on 27 November 2010 (today), a mob carrying rods and clubs have gathered opposite the road access to the press office, and lingered over one hour. It is noted by editors who were stationed at the press office, at the time of the incident, that a group of five to six masked men under cover by a guest, who has come to seek lodging at the ‘Tirukal Inn’, were responsible for this behavior. It is questioned by the editors: “how come such mobs infiltrated Jaffna town area, which is apparently a High Security Zone?”
+Furthermore, a letter of intimidation was distributed amongst the Jaffna news paper officers, on 25 Nov 2010. Witnessing this unethical development in the region, ‘Udayan’ and ‘Yal Thinakuaral’ papers on 26 November 2010 and ‘Sudaroli’ news paper on 27 November 2010 publicized this particular letter of intimidation in their respective papers.
+It is indeed noteworthy, that news papers published in Jaffna during the past few years were surrounded with the same cloud of intimidation, such as: threatening media personal, anonymous calls to press offices, burning of news papers, attacks on news paper distributors and killing of news paper agents are amongst some of the outstanding incidences, which ‘Yal Thirukal’ paper was compelled to face.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Threat to YARL THINNAKKURAL paper in Jaffna is a clear indication of compelled self-censorship -CHR</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">In addition, the attack on parliamentarian Sunil Handunnetthi and the supporters in Jaffna, distribution of threatening letters, and an intimidation of a media person from ‘Yarl Thirukkal” in Kayts have been reported during the past 10 days.
+The Center for Human Rights categorically stresses that in order to establish democracy and social integration in the post conflict scenario in Jaffna, it is vital to ensure press freedom as one of the key factors. CHR further demands the intervention of all responsible authorities to safe guard and ensure the security of journalists, distribution of papers, news paper printing gents, in order to uplift the rights of the civil society.
+Keerthi Tennakoon
+Executive Director
+The Center for Human Rights (CHR)</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">6</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News 27.Nov.2010 11.00AM) Under the leadership of Ananda Sagaree,representatives of the Tamil political parties met the President at Temple Trees yesterday and had a two hour long discussion to find answers for the political solution for the Tamils' ethnic issue; the problems faced by the displaced Tamil people due to the war; compensation for the displaced in consequence of the war; and a plan for the settlement of Tamils in the north alongside the families of the Forces.
+16 representatives of political parties including Chandrahasan, the son of former Federal party leader Chelvanayagam, Minister Douglas Devananda,Chandrakumar,Siddharthan,Padmanabha,M.K.Sivajilingam and Kumar Gurubaran participated in this discussion.
+It is reported that the President has agreed at these discussions to appoint a Committee to look into the affairs of the rehabilitation and resettlement as well as regarding those LTTE suspects who have been taken into custody with a view to releasing them or placing them in rehabilitation camps.
+The President has also told regarding the complaints that the distribution of relief to the people in the north and east is not being duly carried out by the Govt. servants, immediate action is going to be taken to remedy the situation, while adding that measures will be taken to implement the 13th amendment in totality.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Tamil party leaders along with Chelva's son meet the President</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">This discussion with the President is a sequel to the decision taken by the representatives of the Tamil parties who met at Douglas Devananda's house on the 23rd.
+M K Sivajilingam of Tamil National vimukthi alliance said, though the discussions with the President threw some light on the issues, there were no encouraging response from the President in regard to resolving the Tamil people's issues .
+The picture shows the discussion in progress between the Tamil party leaders and the President.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">7</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News 27.Nov.2010 1.13PM) India's Minister of External Affairs, S.M Krishna met President Mahinda Rajapaksa yesterday (26) at Janadipathi Mandiraya.
+Mrs Nirupama Rao, India's Foreign Secretary, HE Mr. Ashoka Kantha, High Commissioner of India in Sri Lanka, Hon Prof. G.L Peiris, Minister of External Affairs, Hon Champika Ranawaka, Minister of Power &amp; Energy, Mr. Lalith Weerathunga, Secretary to the President, Dr. P. B Jayasundara, Secretary-Finance, Mr. Romesh Jayasinghe, Secretary, External Affairs were also present.
+Letters were exchanged between the Indian High Commissioner, Ashok Kantha and Treasury Secretary P B Jayasundara with regard to the IDP housing project.
+A Credit Agreement for USD 416 million for the construction of the Northern Railway line was signed between Mr. Nadeem Panjetan, Managing Director of Indian Exim Bank and Treasury Secretary P B Jayasundara.
+"The end of the conflict has now given room for Sri Lanka to resolve any outstanding issues such as a political solution for the Tamil people in Sri Lanka. We hope that this can be done with a spirit of understanding and a structural dialog through the Government of Sri Lanka," Krishna said.
+Pix by : Sudath Silva</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">India's Minister S.M Krishna met President Mahinda Rajapaksa</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">8</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.25, 2010, 10.30PM) At a place 10 kms from Kilinochchi and towards Mulaitivu, at a spot considered as a common grave pit, a number of skeletons and ashes were discovered believed to be those of the Army and Navy officers, according to the police.
+It is presumed that these are the 26 navy and army soldiers who were shot and killed by the LTTE in January 2009, and put into the pit.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Ashes and skeletons of security forces found in a common grave pit in North</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">This place had been discovered after this information was passed by a LTTE suspect in army custody. The Govt. analyst Dept. officers who have arrived at the venue are conducting investigations.
+The police state that apart from the ash and skeletons of the dead, rags, and empty cartridges too were found.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">9</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.25, 2010, 6.50PM) It is 300 days, yesterday (24) since Journalist Prageeth Ekneliyagoda went missing. Children, friends, media organization representatives, political leaders, union leaders and people’s organizations held a protest demonstration at the Parliament roundabout, Kotte in front of the Ahinsakarama Temple demanding the Govt. to do its duty towards its citizens by somehow searching the whereabouts of Ekneliyagoda and finding him.
+After staging the protests the large crowds placed flowers inside the Temple and lit lamps against the Govt. for failing to provide any information about him.
+Despite the heavy rains, the large crowds who have a conscience thronged the roundabout and the Temple braving even the inclement weather.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Where is Ekneliyagoda? Lamps lit at Ahinsakaramaya against Govt.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">10</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.24, 2010, 10.30PM) The senior Ministers appointed in the recent Cabinet re shuffle of the President Mahinda Rajapakse, none of them has been given a separate Ministry office or a Ministry Secretary.
+The President who gave appointments to 55 Ministers yesterday,has not appointed Secretaries to the senior Ministers.
+According to reports reaching Lanka e news, the President is making arrangements to house the Ministries of all the senior Ministers in a single building and give them miniature offices. Political analysts are of the view that this may as well be termed the ‘home for the aged’ for the senior Ministers.
+When two or three senior Ministers had contacted by phone their former offices pertaining to their subjects which were allocated in their names, and to have their Ministry in place, the officials there have not given an answer, but have replied they have directed their query for the attention of the President. It is reported that the President has informed no such Ministries as before would be allocated to them. However, the senior Ministers will all be housed in one Building with a whittled down staff and a Ministry of smaller magnitude, he has added.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Senior Ministers relegated to the home for the aged: No Ministry office; no Ministry Secretaries</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">When appointing the senior Ministers and the creation of the cabinet Ministries, their subjects and powers were stated in English and as ‘Minister of’, whereas in the case of senior Ministers they have been distinctly stated as ‘ Ministry for’. As the senior Ministers have not been assigned any subject, the implication is they are being shunted off to the position of ‘kankani Ministers’.
+Although these Ministers got senior Minister positions, they are utterly disgruntled, and many of them have not attended the budget proceedings when it commenced yesterday.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">It is reported that an estimate is to be presented relating to the salaries, fuel and office maintenance of the senior Ministers during the committee stage of the budget.
+An opposition MP while referring to the senior Ministers, remarked, this is the first time in Sri Lanka a scheme has been created to provide pension through Ministers.</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">11</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.24, 2010, 3.35PM) President Mahinda Rajapaksa appointed the following Ministry Secretaries at the Temple Trees yesterday (23). President had earlier re-apppointed Mr. Lalith Weeratunga as the Secretary to President: The Secretaries are:-
+1. Cabinet Secretary - Sumith Abeysinghe
+2. Buddha Sasana and Religious Affairs Ministry Secretary - S. Amarasena.
+3. Defence Secretary - Gotabhaya Rajapaksa
+4. Finance and Planning - Dr P B Jayasundara
+5. Aiwan de Silva - Irrigation and Water Supply Ministry
+6. Dr T R C Ruberu - Health Ministry
+7. H T M Jayawardena - Petroleum Industries Ministry
+8. A H Gamage - Livestock and Rural Community Development Ministry
+9. A Abeygunasekara - Water Supply and Drainage Ministry
+10. V Sivagnanasothi - Traditional Industries and Small Enterprise Development Ministry
+11. Dr Nihal Jayathilaka - Local Government and Provincial Councils Ministry
+12. Thilak Kollure - Industry and Commerce Ministry
+13. M M C Fradinando - Power and Energy Ministry
+14. S M P Jayarathna - Construction, Engineering, Services Housing and Common Amenities Ministry
+15. Suhada K Gamlath - Justice Ministry
+16. Dr P B Jayasundara - Economic Development Ministry</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">New Ministry Secretaries appointed</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">17. M S Wickramasinghe - National Languages and Social Integration Ministry
+18. Dr Sunil Jayntha Nawarathna - Higher Education Ministry
+19. C R Jayasinghe - External Affairs Ministry
+20. P B Abeykoon - Public Administration and Home Affairs Ministry
+21. H P Jayathunga - Pa rliamentary Affairs Ministry
+22. Ashoka Jayasekara - Postal Services Ministry
+23. Dharani S Wijethilaka - Technology and Research Ministry</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">24. Dr R H S Samarathunga - Environment Ministry
+25. N R Gunasekara - Child Development and Women's Affairs Ministry
+26. W J L U Wijeweera - Labour and Labour Relations Ministry
+27. H M Gunasekara - Education Ministry
+28. R A D R M Peiris - Plantation Ministry
+29. Dr P Damitha N De Soysa - Fisheries and Aquatic Resources Development Ministry
+30. T A Peiris - Land and Land Development Ministry
+31. W. Yamuna Chithrangani - Social Services Ministry
+32. W Kodithuwakku - Private Transport Services Ministry
+33. K E Karunathilaka - Agriculture Ministry
+34. W A Ganegala - Mass Media and Information Ministry
+35. U W U D Basnayake - Transport Ministry
+36. S S Hewapathirana - Youth Affairs and Skills Development Ministry
+37. Sunil S Sirisena - Cooperatives and Internal Trade Ministry
+38. A Dasanayake - Rehabilitation and Prison Reforms Ministry
+39. B D Dahanayake - Indigenous Medicine Ministry
+40. W M P Narampanawa - Export Crop Promotion Ministry
+41. Nissanka M Wijerathna - Foreign Employment and Welfare Ministry
+42. Anura Siriwardena - Coconut Development and Janatha Estate Development Ministry
+43. Wimal Rubasinghe - Culture and Arts Ministry
+44. S M M Mohamed - Disaster Management Ministry
+45. B K U A Wickramasinghe - Agrarian Services and Wildlife Ministry
+46. W M Wijesuriya - Public Relations and Public Affairs Ministry
+47. U R Seneviratna - Sports Ministry
+48. W W Gamage - State Resources and Enterprise Development Ministry
+49. M A Athukorala - Telecommunication and Information Technology Ministry
+50. M D K H Wijethunga - National Heritage Ministry
+51. W M Bandusena - Productivity Promotion Ministry
+52 P K D Amarawardena - Public Management and Reforms Ministry
+53. K V R de Silva - Civil Aviation</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">12</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.23, 2010, 11.15PM) Western Provincial Council member A J M Muzammil speaking to the media in Colombo said, the President Rajapakse has appointed Rauff Hakeem as the justice Minister, even after being aware that he was charged for contempt of Court when he declared that the Supreme Court has rejected a fundamental rights petition application even without hearing.
+The SLMC and Rauff Hakeem accepted this appointment to serve the people or to serve selfish personal agendas ? he asked.
+After signing an agreement with the UNP that his party will not betray the UNP and join the Govt., Hakeem committed the worst perfidy.After contesting under the UNP and winning 8seats, and securing two National list MP posts, just for one Ministerial position he had sold his soul, Muzammil pointed out.
+The founder of the SLMC late A H M Ashroff never at any stage betrayed his principles or party, and he even sacrificed his life. The SLMC and its leader late Ashroff who contributed immensely for the election of Ranasinghe Premadasa as the President at that time did not accept special favors and perks even after joining the Premadasa Govt. he asserted.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">The irony of ironies!- Hakeem who was charged for contempt of court appointed Justice Minister –Muzammil</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">The Muslim pilgrims who went to Haj. this year had been the victims of a huge swindle..Muzammil therefore demanded the Govt. to appoint a Commission to inquire into it. The pilgrims who were in Saudi Arabia to perform their religious rites at Arfa and Mina at Saudi Arabia were not provided with the necessary food, medical and transport facilities.
+Consequently they had to be in refugee camps like prisoners facing tremendous hardships. The pilgrims had complained to the officials of that country regarding their predicament and asked them to provide the necessary facilities at Riyals 650 each for 4000 pilgrims. On earlier occasions only 450 to 650 riyals were collected from the pilgrims going for Haj. But this year Azad Salie a member of the Haj committee had charged riyals 1000/- per pilgrim and has signed a contract with Saudi Arabia Heads who organize these pilgrimages. Muzammil therefore demanded that the details of this contract be immediately revealed.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">13</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.23, 2010, 6.25PM) During his first term, Sri Lanka's President Mahinda Rajapaksa, underestimated by his political opponents and the outside world, achieved overwhelming political dominance after his politico-military strategy eliminated the LTTE as a military force and he went on to score two big electoral victories. As he embarks on a second presidential term, which began on November 19, he reflects on the tasks and challenges ahead in an interview given to N. Ram at Temple Trees in Colombo.
+Mr. President, you made a huge score in the first innings. As you begin your second innings, there are heightened expectations from many constituencies within Sri Lanka and outside. How do you react to these?
+As for what I achieved in the first term, I have brought peace to this country. Eliminated terrorism and brought peace. Now my aim is to develop the country. After that, the priorities are the people whom we have to win over — the hearts and minds of the people. Now Sri Lanka is one country; it's not divided. So what we want is to see that the whole nation gets all the benefits, not only one area, not only one community. To develop the economy so that all the people benefit.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Sri Lanka is now one country, my aim is to see whole nation gets all benefits: President Rajapaksa</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Earlier you spoke about the three Ds, Development, Democratisation, and Devolution. Has that changed?
+No. Development is important. Without development and peace, we can't have democracy. Democracy is very important because we are a democratic country. And then devolution: we have said we must know the minds of the people. Politicians have their own theories but people, the new generation, have different views. What we want is reconfirmation of what they want. Definitely we are going to have this. To have peace, we need all this.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">How do you find the response of the people of Sri Lanka when you go to the rural areas? You won two big elections, the presidential election and the parliamentary elections.
+When I go to villages and talk to the people, they are warm and friendly. I feel it.
+You have no worthwhile opposition, politically speaking. Of course there are opposition forces. General [Sarath] Fonseka came into the picture and there are others. But after the elimination of the LTTE and after the electoral victories, I don't see any leader in South Asia who is so well placed, so dominant politically as you are. How do you react to this? Do you sometimes feel complacent?
+I must thank the people. In our democracy, people have trusted me to deliver. They know I have delivered peace to them. Now they need development and peace again. That is what the people expect from us. Now, with a two-thirds majority in Parliament, after a victory by 1.8 million — all this gives strength to me and to my party. What the people wish to have, we have to deliver.
+On the Tamil question, the first challenge after the elimination of the LTTE was looking after 300,000 people who were in the camps. Now most of them have been sent back to their areas and I believe the number in the camps has come down to 18,000.
+Of this 17,000 or 18,000, many of them are not in the camps; they go to the villages and come back. But at least 10,000 of them are from areas that have to be de-mined; we can't send them there yet. But by December, we expect to send back everyone other than the people who wish to stay there [in the camps].
+Are you satisfied with the resources that have come internally and externally to help this process?
+I'm satisfied. Because all our friends helped us. Otherwise, we wouldn't have been able to achieve this.
+Now, there are heightened expectations about the political solution, the 13th Amendment-plus, that has been promised. The impression is that there is drift here.
+As you would understand, we can discuss this only now — with all the political parties. After the elections, we have had discussions and they will continue. The solution that I have in mind might not be good enough for them; they might not accept it. Not only the political parties, the people must accept it. They want a new leadership to be built up. After we send them back to their villages, they have all these expectations and hopes. We must find out from them too. I have already had discussions with our political leaders who are in the government and who are in the opposition.
+Do you have in mind a clear political solution, even if you have not revealed the specifics?
+Yes, but I will first find out their views. We want to appoint a committee, from both sides and discuss all these.
+Do you find the opposition reasonably cooperative, at least the main opposition, the UNP?
+[Laughs]. The problem is they have to survive. The Opposition has lost all their slogans, now they have to find new slogans. It's good in a way. But the Opposition must also remember this. They must oppose us within the country; it is their democratic duty. They must also realise that when we go out of the country, we all represent Sri Lanka. The fight is here, in Sri Lanka, but not when they go out. They must always respect the country.
+This is a principle you have followed throughout in your political career, when you were in the Opposition also?
+Yes. I never went and tried to stop any aid or any benefits that we got! We never went on to that. We said, ‘yes, there are human rights violations,' because I was the one who first went to Geneva and gave evidence in the Human Rights Commission. But we never tried to pressurise the governments to withdraw aid and benefits to the people of Sri Lanka.
+It is notable that the Tamil National Alliance, or the people who are now the TNA, have for the first time said they would accept a devolution package within the framework of a united Sri Lanka. How do you see that?
+It is a good development. Because earlier they wanted a separate state. It's a very good development. We can now start talking to them.
+You expect a lot from them?
+Not only from the TNA but from all the Tamil parties. We need their support and the [Tamil] people's support. This is very important. They must realise that they can't get what Prabakaran wanted — by using guns and all those weapons, by terrorism. They can't terrorise the country that way. They must also realise that what we refused to give Prabakaran, we won't give to others. So they must be realistic — and fair, in this process. They must know the feelings of the others too.
+The question is also about the sequencing: before you come to this political agreement, the search for a political consensus on the devolution package, why not hold elections in the Northern Province? But even the TNA doesn't seem to be in a great hurry.
+Yes, because at this juncture we have to re-settle these people first. They must be given their basic needs and provide for their livelihoods.
+But they voted in the presidential and parliamentary elections even though they were in the camps. Do you have to wait for them to be completely re-settled now?
+There is also the need to register all of them [in the electoral register]. We can't have elections now under the 1981 Census. You know, in the Eastern Province, we had elections as soon as we threw the LTTE out. But [in the North] I didn't want to have elections when they were in camps, because the interpretation would have been different. Now I want to have elections as soon as possible to the Northern Provincial Council. We might be able to do that by next year. People who want to criticise us will always criticise us, for the low turnout and so on. But we can't have elections under the 1981 Census!
+Everybody speaks about the tremendous infrastructural development in Sri Lanka, every part of Sri Lanka except the areas where de-mining is yet to be completed. So you have a very good thing going. Can't the political process be speeded up to keep pace with this rapid development?
+Unfortunately, the stakeholders were not available, some of them. When we start that [political process], the Opposition must cooperate. Everybody must agree to the solution — this is not my personal solution! It must be a solution of the people, a solution from the grassroots level — not imported, not imposed by force — it must come from them. This is the solution we want. Now they all want to be one country, one nation. I have been to the North, our young MPs also have gone. We have spent billions of rupees there. What we have spent on the Eastern Province and on the North, we have not spent on the other Provinces. If you compare that, we have invested massively in the North and the East.
+Because if the political agreement happens, there will be no issue. The Lessons Learnt and Reconciliation Commission, the LLRC, was set up to probe events from 2002 to the end of the war and fix responsibility and make recommendations. We have the successful South African model [the Truth and Reconciliation Commission]. How do you assess the progress made in this?
+I would say, very good. They have already given us an interim set of recommendations. I have given it to the officials to implement. A committee has been appointed. The commission is not meeting in Colombo only; they go to the North, they go to villages. They go and meet the people; they don't wait till people come to them, they go to the masses. The difference is that. They have invited all international human rights groups to come and give evidence. They have sent invitations to the United Nations, so it can come and find out now. I think they are working very well, though some of the interested parties have their own views about the Commission.
+You have the U.N. effort, the advisory panel that the Secretary General has set up despite opposition from the Sri Lankan government, and the demands of the NGOs for more investigations into alleged human rights violations. They don't seem to have got anywhere.
+I understand the plight of the NGOs. They have to say something. Whatever we do, finally we won't be able to change their views — we might be able to change the views of a few of them but not all of them. They must realise that if you talk about other countries, conflicts are there, human rights issues are there. You can see the difference. For example, when all the 300,000 came this side and we started building some villages and kept them there, they said we were keeping them in ‘concentration camps'! You went there at that time, you could see for yourself whether they were concentration camps. When we re-settled them, they said ‘no permanent houses.' Within six months, we have to build permanent houses. But without de-mining, how can we go and settle them? If we had settled them, they would have said we did this purposely to kill these people. We have seen some of these NGOs in Sri Lanka during election time. They went all out. One NGO, Transparency International, its local chapter, spent [SL Rs] 109 million in 2009, and within one month, the election month, January [2010], it spent [SL Rs] 69 million. A government department won't be able to spend so much! This is what they did – got involved in local politics. They want to change governments, they want to change leaders. They don't worry about the repercussions. Some of these NGOs are out; some of them are working.</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">14</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News -22.Nov.2010 11.30PM) President Mahinda Rajapakse presented the budget as finance Minister today (22) in Parliament. The budget did not provide any relief which can be appreciably felt by the common man. Despite promises to increase the grants to samurdhi recipients and senior citizens , the budget contained no mention of the amounts by which they will be increased. A paltry 50 cents reduction in phone charges is to be granted from next year. But big time traders and Industrialists are in for tax concessions.
+Though the Govt. servants were eagerly awaiting a substantial salary increase , only a meager 5% increase on the basic salary has been granted. Accordingly , a Govt. servant whose basic salary is Rs. 11730/- , he will get an increase of Rs. 686.50 which together with the cost of living increase of Rs. 600/- , will total to Rs. 1286.50 . The President however promised a salary increase of Rs. 2500/- at the General elections to Govt. servants. This was apart from the cost of living allowance. The cost of living allowance shortfall at the present is Rs. 3720/-. Based on the budget speech of the President the number of Sri Lankans employed abroad is 30 lakhs. The main source of foreign exchange for Sri Lanka are from those employed abroad. As the rates of foreign calls have been raised , the relatives , parents , spouses and children who speak on a daily and weekly basis with those employed abroad will from now on pay higher tariffs for their calls.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">-meager 5% salary increase for Govt. servants ; foreign call rates up; Big time traders get tax concessions</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Budget a damp squib –hollow verbiage</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">There had been no reduction in the taxes of essential commodities and the daily consumer items in this year’s budget. Instead prior to the budget the import taxes on sugar, milk powder , thiringu flour, dhal , sardine were raised by 100% to 500% . The taxes on liquor and cigarettes too were raised.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">15</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News -22.Nov.2010 11.30PM) In the last Cabinet re shuffle today (22) , former Minister Milroy Fernando and Deputy Ministers Neomal Perera and Sarath Kumara did not get any Ministerial appointments.
+These three former Ministers have gone to the Vatican to attend the ceremony of the appointment of Rev. Malcolm Ranjith as Cardinal . After their return to the Island , it is believed that they may be sworn in and appointed to Ministerial positions in the cabinet .</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">No portfolios for Minister Milroy and two other Deputy Ministers</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">16</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.22, 2010, 1.46PM) After the President Mahinda Rajapakse took office for his second term, 59 Ministers were sworn in today (22).
+D M Jayaratne took oaths as the Prime Minister again. 10 front liner Ministers were sworn in as senior Ministers. These Ministers were given separate portfolios.
+A further 31 Deputy Ministers were also sworn in which means that the Rajapakse Govt. will comprise 90 Cabinet members.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">59 new Ministers; 31 Dep. Ministers!</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">There are 16 new faces in the Cabinet this time. Rauff Hakeem of SLMC who joined the Govt., Lakshman Seneviratne who voted with the Govt. for the passage of the 13th amendment, and Vasudeva Nanayakkara who was most vociferous that the Executive Presidency system should be changed while being in the Govt., and who did a sudden ‘U’ turn later to support the 18th amendment were all allocated Ministries in the new Cabinet.
+Deputy Minister for Highways, Dr. Silva has been elevated to Minister position in the Cabinet reshuffle. His portfolio is human affairs and public relationship.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">It is significant to note that this new human affairs Minister Dr.Silva has been well noted for his inhumane activities and obnoxious involvements with the media whereby even court cases were filed against him. He has also demonstrated his public relationship skills when he tied a Samurdhi officer to a tree violating all norms and standards of country‘s decent behavior and legal practices, not to mention his latest ‘humane’ act of raiding the houses of Muslim devotees and forcefully appropriating the bulls they had purchased out of legal earnings to perform their religious ritual of animal slaughter for their Haj festival approved legally under the constitution.
+Hereunder are the other new Ministerial appointments and the names of the Ministers.</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">17</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.21, 2010, 10.20PM) Gen. Sarath Fonseka who was transferred to the Welikade prison Hospital following breathing difficulties and a nagging cough last Tuesday was released from Hospital this morning (21), to his special cell where he was imprisoned, according to reports.
+Welikade prison sources say he was sent back to the Welikade prison since he had recovered.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">General recovers but only to be put back in the prison cell</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">After the General was transferred to the Hospital following his sudden illness, his lawyer declared in courts that despite the Courts giving orders to provide him with a lung exercise machine, this equipment has not been made available to him. Besides, his cell where he is kept in custody is fully soaked due to the rains. The Bench then gave a directive that he should be provided with the necessary facilities for his exercises, and his cell immediately put in order.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">18</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.21, 2010, 10.20PM) Most Ven. Reverend Malcolm Ranjith was appointed as the second Sri Lankan Cardinal at the Vatican, Rome yesterday (20).
+Malcolm Ranjith was born on 15th November 1947 at Polgahawela. His father’s name is Patabendige Don William and his mother is Mary Winifreda. Malcolm Ranjith was their first child. He recived the clergy status on 29th June 1975. On 15th June 1991, he was appointed as the Archbishop by the most Ven. Pope Paul the 2nd.
+At the felicitation ceremony of the Rev. Malcolm Ranjith following his appointment as Cardinal by the Pope Benedict the 12th at the St. Peter’s square at the Vatican, Rome, Ministers, Parliamentarians and a large number of Sri Lankans regardless of religious differences participated and Rev. Neville Joe Perera coordinated the function, according to our correspondent in Italy.
+35 years ago Most Ven.Rev. Cooray was the first Sri Lankan to be appointed as the Cardinal.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Most Ven. Reverend Malcolm Ranjith elevated to Cardinal status</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">19</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.21, 2010, 12.25PM) The monthly salary increase of Rs. 2500/- promised to the Govt. servants will not be granted as the Budget to be presented on the 22nd by the President Mahinda Rajapakse as Finance Minister does not contain that proposal.
+According to Govt. sources, the Govt. is not in a position even to grant 1000/-rupee salary increase.
+The President has directly told at the last Cabinet meeting that there is no possibility for salary increases, adding that if the salary increases are to be granted to Govt. servants, a great part of the development programs will have to be abandoned. Even if a 100/- rupee monthly salary increase is to be granted, the Govt. will have to expend Rs. 1400 million for a year towards that. However, at the last Presidential and General elections the President gave a solemn assurance that the Govt. Servants’ salaries will be increased by Rs. 2500/- per month.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">2500/- salary increase promised to Govt. servants by President not there in the forthcoming budget</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">When the main Presidential rival candidate Gen. Sarath Fonseka promised to grant salary increase of Rs.10000/- per month to Govt. servants at the elections, the President said, he would not make promises which are bigger than what he can fulfill. He was therefore promising to increase their salaries by Rs. 2500/- if he is elected as President again.
+While the UNP and its unions are campaigning for a salary increase of Rs.10000/- per month, the JVP and its unions are demanding Rs. 8000/- per month and are already having protest demonstrations Island wide. The SL Communist party unions are also demanding a Rs. 5000/- salary increase.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">The leaders of the Unions have warned that if there isn’t a substantial salary increase for the workers in this budget vis a vis the spiraling cost of living and the sky rocketing prices of all commodities.they would be compelled to resort to stern and unremitting trade union actions.</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">20</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.20, 2010, 10.10PM) When Mahinda Rajapakse took oaths as President for the second term in office and addressed the nation, the IGP was not allowed to be seated on stage along with those of the three Forces.
+Especially when the President was addressing the nation from the special stage in the morning yesterday (19), despite the IGP Mahinda Balasooriya coming in his full uniform, he was precluded from mounting the stage on President’s instructions, according to reports.
+Although a police force numbering 4000 personnel of various categories were deployed for security on account of the oaths taking ceremony of the President, instructions had been given that they should not even be armed with a baton. On the other hand, 6000 personnel of the three Forces who were deployed yesterday for security were all armed.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">IGP sidelined at the swearing in ceremony</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">21</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">(Lanka-e-News, Nov.19, 2010, 11.55 PM) When President Mahinda Rajapakse took oaths as the President for his second term in office at the auspicious time this morning (19), Anoma Fonseka the wife of Sarath Fonseka broke coconuts at the same time at the Kali amma Kovil in Kochchikade entreating the deity to save the country from the present stinking Govt. and to free Sarath Fonseka.
+Jayantha Kettagoda and other DNA members also took part in this ceremony.
+The pictures depict Anoma Fonseka and the front liners holding coconuts and entreating Kali amma deity to provide them relief.</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Even as President takes oaths Anoma Fonseka breaks coconuts at Kali Kovil</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+  <s:Worksheet s:Name="LankaenewsEnglish">
+    <s:Table>
+      <s:Column s:Width="100" />
+      <s:Column s:Width="100" />
+      <s:Row>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">LankaenewsEnglish_key</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="HeaderStyle">
+          <s:Data s:Type="String">start_url</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">http://www.lankaenews.com</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

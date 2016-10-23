@@ -1,0 +1,2 @@
+serviceClass: newsReader.client.Service.NewsSourceService
+path: A56EE553F6B93048026D24C158B50EF8.gwt.rpc
